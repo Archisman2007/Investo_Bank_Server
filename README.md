@@ -14,6 +14,8 @@ This is a basic c project...
 ## What we can do :
 Here we can create a bank account with the necessary details which will provide a account number and the user have to set a pin....We can view existing account by logging in by providing the users account number and pin. 1st it checks whether the account number exists or not if it exists then the program will ask for the pin(user have 3 tries to enter the pin correctly, if user fails to do so then it will get back to the welcome menu)....after logging in(if account number and its corresponding pin matched) the user is taken to the account dashboard where the user can check his/her balance, withdraw money, deposit money, view account details and logout....for withdrawing money the program check whether user has more than the amount he/she wants to withdraw....After logging out the server goes back to the welcome menu.
 
+And the most interesting part is that whenever you end a program the data is lost instantly but here the data is preserved in accounts.csv file so even if you end a program the next time you run it you can still get access to the previous accounts that is already created.
+
 ## Programming language used :
 1. C programming language
 
