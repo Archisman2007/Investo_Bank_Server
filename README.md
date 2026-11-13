@@ -19,7 +19,7 @@ Here we can create a bank account with the necessary details which will provide 
 
 ## How to run the code :
 
-The following code was tested using MinGW compiler(https://sourceforge.net/projects/mingw/)....one must have the compiler installed and setup before running the code.
+The following code was tested using MinGW compiler( https://sourceforge.net/projects/mingw/ ) ....one must have the compiler installed and setup before running the code.
 
 1. Download all the codes from here and store it in a file
 2. open that file and navigate to the address bar
